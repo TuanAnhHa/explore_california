@@ -1,0 +1,4 @@
+* ls -la: list all Items inside the Directory with Details
+* git init: tell Git to start tracking
+* git status: reveal current Situation of all Items
+* 
