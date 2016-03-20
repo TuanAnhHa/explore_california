@@ -1,14 +1,21 @@
 Terminal:
-* ls -la: list all Items inside the Directory with Details
-* git init: tell Git to start tracking
-* git status: reveal current Situation of all Items
-* git add . : add everything
-* git commit -m "Initial Commit"
-* git log
+	ls -la: list all Items inside the Directory with Details
+	git init: tell Git to start tracking
+	git status: reveal current Situation of all Items
+	git add .: add everything
+	git commit -m "Initial Commit"
+	git log
 
 --------------------------------
 Sublime Text:
-Find -> Find Files -> Find & Replace -> File -> Save All
+	Find -> Find Files -> Find & Replace -> File -> Save All
 
 Terminal:
-git diff fileName
+	git diff fileName
+	git commit -am "Changed phone number" = git add . + git commit -m "Changed phone number"
+
+---------------------------------
+Rename a File
+	Terminal:
+		mv Directory/oldName Directory/newName
+	
