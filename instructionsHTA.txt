@@ -1,4 +1,14 @@
+Terminal:
 * ls -la: list all Items inside the Directory with Details
 * git init: tell Git to start tracking
 * git status: reveal current Situation of all Items
-* 
+* git add . : add everything
+* git commit -m "Initial Commit"
+* git log
+
+--------------------------------
+Sublime Text:
+Find -> Find Files -> Find & Replace -> File -> Save All
+
+Terminal:
+git diff fileName
