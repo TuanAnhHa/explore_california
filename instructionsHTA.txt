@@ -18,4 +18,5 @@ Terminal:
 Rename a File
 	Terminal:
 		mv Directory/oldName Directory/newName
-	
+	git status
+	git add .
